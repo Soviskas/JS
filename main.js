@@ -7,6 +7,8 @@
 // var num;
 // num = 10;
 
+/////////////////2.03.2025-12:22
+
 // var num = 10;
 // num = 12;
 // console.log("Variable:" + num);
@@ -35,31 +37,34 @@
 // console.log("Math: " + Math.min(6, 10, 11, 25, 3, -2));
 // console.log("Math: " + Math.E);
 
-var number = 8;
+/////////// 02.03.2025-15:37
 
-if(number == 5) {
-    console.log("OK");
-}else if(number < 5) {
-    console.log("5!");
-}else if(number ==7) {
-    console.log(" 7!");
-}else if(number >= 15) {
-    console.log(" =>15!");
-}else {
-    console.log("Else");
-}
+// var number = 8;
+
+// if(number == 5) {
+//     console.log("OK");
+// }else if(number < 5) {
+//     console.log("5!");
+// }else if(number ==7) {
+//     console.log(" 7!");
+// }else if(number >= 15) {
+//     console.log(" =>15!");
+// }else {
+//     console.log("Else");
+// }
 
 
-var str = "word";
+// var str = "word";
 
-switch(str){
-    case"1":
-    console.log("Varriable is 1");
-    break;
-    case"2":
-    console.log("Varriable is 2");
-    break;
-    case"word":
-    console.log("Varriable is word");
-    break;
-}
+// switch(str){
+//     case"1":
+//     console.log("Varriable is 1");
+//     break;
+//     case"2":
+//     console.log("Varriable is 2");
+//     break;
+//     case"word":
+//     console.log("Varriable is word");
+//     break;
+// }
+
