@@ -68,3 +68,4 @@
 //     break;
 // }
 
+var arr = [5, 6, true, "stroka", 5.2, -100];
